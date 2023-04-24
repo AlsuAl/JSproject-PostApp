@@ -2,8 +2,8 @@
 	
 App to download and add posts
 	
-<img width="700" alt="Снимок экрана приложения Posts" src="https://github.com/AlsuAl/AlsuAl/blob/main/assets/JSproject.png">
-//<img width="700" alt="Снимок экрана приложения Posts" src="https://github.com/.png">
+<img width="700" alt="screenshotmain" src="https://github.com/AlsuAl/AlsuAl/blob/main/assets/JSproject.png">
+<img width="700" alt="screenshotform" src="https://github.com/AlsuAl/AlsuAl/blob/main/assets/JsProjectForm.png">
 	
 ## Technologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
