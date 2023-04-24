@@ -2,8 +2,8 @@
 	
 App to download and add posts
 	
-	//<img width="700" alt="Снимок экрана приложения Posts" src="https://github.com/IrinaParamonova7980/Posts-app/blob/master/js1.png">
-	//<img width="700" alt="Снимок экрана приложения Posts" src="https://github.com/IrinaParamonova7980/Posts-app/blob/master/js2.png">
+//<img width="700" alt="Снимок экрана приложения Posts" src=".png">
+//<img width="700" alt="Снимок экрана приложения Posts" src="https://github.com/.png">
 	
 ## Technologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -15,4 +15,4 @@ App to download and add posts
 [![Contributors](https://contrib.rocks/image?repo=elena-kundera/ourAmazingJSproject)](https://github.com/elena-kundera/ourAmazingJSproject/graphs/contributors)
 	
 ## Result
-https://irinaparamonova7980.github.io/Posts-app/<img width="1367" alt="image" src="https://user-images.githubusercontent.com/110298547/234016934-a63d8356-ec78-4d55-aa3d-87ed970de2a7.png">
+
